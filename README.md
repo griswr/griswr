@@ -11,11 +11,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/aecd41ca-fd13-4b83-ad73-9ff19523e4b9"
-</div>
-
-
-<div align="center">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -23,6 +18,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aecd41ca-fd13-4b83-ad73-9ff19523e4b9"
+</div>
+
 <br clear="both">
 
 <div align="center">
